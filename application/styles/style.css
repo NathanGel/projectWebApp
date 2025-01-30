@@ -1,0 +1,24 @@
+#loginForm{
+    margin: auto;
+    border: 1px black solid;
+    text-align: center;
+    width: fit-content;
+    padding: 20px;
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.loginScreen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#loginForm a{
+    text-decoration: none;
+}
